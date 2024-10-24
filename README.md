@@ -1,5 +1,7 @@
 ### Overview 
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2ddb75d6584444fabf5fbbb29a035e0)](https://app.codacy.com/gh/vamsi9908/IaCTesting?utm_source=github.com&utm_medium=referral&utm_content=vamsi9908/IaCTesting&utm_campaign=Badge_Grade)
+
 Pleaceholder for detecting testing anti-patterns in IaC 
 
 ### Contributors
