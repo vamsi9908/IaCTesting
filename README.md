@@ -200,4 +200,5 @@ In the above two examples, we are seeing that a special tag has been added in th
 
 ####codacy badge
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b2ddb75d6584444fabf5fbbb29a035e0)](https://app.codacy.com/gh/vamsi9908/IaCTesting?utm_source=github.com&utm_medium=referral&utm_content=vamsi9908/IaCTesting&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c165f96707014144bf1d6689dacb3a48)](https://app.codacy.com/gh/vamsi9908/IaCTesting/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
