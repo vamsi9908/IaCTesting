@@ -197,3 +197,7 @@ In the above two examples, we are seeing that a special tag has been added in th
 3. https://arxiv.org/ftp/arxiv/papers/1703/1703.10882.pdf
 4. https://github.com/TestSmells/TestSmellDetector
 5. https://julien.danjou.info/finding-definitions-from-a-source-file-and-a-line-number-in-python/
+
+####codacy badge
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c165f96707014144bf1d6689dacb3a48)](https://app.codacy.com/gh/vamsi9908/IaCTesting/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
